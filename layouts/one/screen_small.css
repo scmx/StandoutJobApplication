@@ -1,0 +1,7 @@
+#main > aside {
+    display: none;
+}
+#content {
+    max-width: 572px;
+    margin-right: 0;
+}
