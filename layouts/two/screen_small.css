@@ -1,0 +1,7 @@
+.center {
+    max-width: 700px;
+    margin: auto;
+}
+#main > aside {
+    display: none;
+}
