@@ -12,7 +12,7 @@
     width:  102px;
     height: 102px;
     margin: 10px auto;
-    border: 3px solid #eee;
+    border: 3px solid #eaeaea;
 }
 .avatar a {
     display: block;
@@ -56,7 +56,7 @@
 #content > article {
     margin-bottom: 16px;
     background: #fff;
-    border: 3px solid #eee;
+    border: 3px solid #eaeaea;
 }
 #content > article > header {
     border-top: 1px solid #ccc;
@@ -84,14 +84,14 @@
 #main > aside {
     width: 200px;
     background: #fff;
-    border-top:    3px solid #eee;
-    border-bottom: 3px solid #eee;
+    border-top:    3px solid #eaeaea;
+    border-bottom: 3px solid #eaeaea;
 }
 #main > aside.left {
-    border-right: 3px solid #eee;
+    border-right: 3px solid #eaeaea;
 }
 #main > aside.right {
-    border-left: 3px solid #eee;
+    border-left: 3px solid #eaeaea;
 }
 #main > aside > div {
     padding: 0 5px;
@@ -105,7 +105,7 @@
     border-left:   1px solid #ccc;
 }
 #footer {
-    border-top:   3px solid #eee;
+    border-top:   3px solid #eaeaea;
     border-left:  1px solid #ccc;
     border-right: 1px solid #ccc;
 }

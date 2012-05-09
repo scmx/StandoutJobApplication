@@ -5,6 +5,8 @@ Currently not available online :(
 
 Me and my friend Ludvig Lam wanted a website for our photographs.
 
+Developed: 2010 by me
+
 PHP: Used to: handle pages, create links to photos, extract EXIF-data and dimensions from images, display a list of all images.
 XHTML: Follows Strict XHTML
 CSS: A floated list of thumbnails, transparent overlay when not :hover and other good stuff.
