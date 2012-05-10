@@ -1,7 +1,7 @@
 Photo Gallery
 =============
 
-Currently not available online :(
+http://scymex.com
 
 Me and my friend Ludvig Lam wanted a website for our photographs.
 
