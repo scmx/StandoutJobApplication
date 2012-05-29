@@ -1,7 +1,7 @@
 Photo Gallery
-=============
+-------------
 
-http://scymex.com
+http://gallery.scymex.com
 
 Me and my friend Ludvig Lam wanted a website for our photographs.
 

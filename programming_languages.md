@@ -20,7 +20,7 @@ I have tried many but far from all of the new features.
 
 JavaScript
 ----------
-Learned JS some years ago so I could customize websites like proboards. I always prefer CSS over JS. 
+Learned JS some years ago so I could customize websites like proboards. Nowadays, I always prefer CSS over JS. 
 
 PHP
 ---
