@@ -2,7 +2,6 @@ Programming Languages
 ---------------------
 
 ### HTML
-----
 Started with html back in 2005, and have been continually improving my skills ever since.
 
 ### XHTML
